@@ -74,8 +74,6 @@ ses = requests.Session()
 
 try:
 
-	import pyfigletexcept ImportError:
-
 	os.system('pip install pyfiglet')
 
 def tahunng(fx):
