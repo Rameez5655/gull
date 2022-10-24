@@ -74,6 +74,8 @@ ses = requests.Session()
 
 try:
 
+import pyfigletexcept
+
 	os.system('pip install pyfiglet')
 
 def tahunng(fx):
